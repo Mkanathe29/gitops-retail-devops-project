@@ -17,7 +17,7 @@ spec:
           image: mkanathe/retail-devops-project:1.0.0-33
           resources:
             limits:
-              memory: "256Mi"
-              cpu: "500m"
+              memory: "400Mi"
+              cpu: "700m"
           ports:
             - containerPort: 8080
