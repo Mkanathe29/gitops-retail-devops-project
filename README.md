@@ -1,1 +1,1 @@
-# gitops-register-app
+# gitops-retail-devops-project
